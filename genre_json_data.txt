@@ -1,0 +1,5 @@
+{"genres": [
+{"_id" :"Sb21ca3eeb7F6fbccd471818", "name": "Action"},
+{"_id": "Sb21ca3eeb7f6fbecd471814", "name": "Comedy"}, 
+{"_id": "Sb21ca3eeb76fbccd471820", "name": "Thriller"}
+]}

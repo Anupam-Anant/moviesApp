@@ -1,0 +1,10 @@
+.reset{
+    padding: 13px;
+    border: 2px solid gray;
+}
+.counter-num{
+    margin-bottom: 3px;
+}
+.counter-val{
+    margin-bottom: 10px;
+}
